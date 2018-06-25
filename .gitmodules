@@ -1,0 +1,3 @@
+[submodule "redis-py"]
+	path = redis-py
+	url = https://github.com/andymccurdy/redis-py
