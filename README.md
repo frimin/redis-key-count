@@ -2,7 +2,7 @@
 
 A simple Pytion script for count all key bytes from redis.
 
-It can't give you accurate memory conditions, but can you can get some important information from the output.
+It can't give you accurate memory conditions, but you can get some important information from it.
 
 ## INSTALL
 
