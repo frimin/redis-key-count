@@ -1,6 +1,6 @@
 # Redis-Key-Count
 
-A simple Pytion script for count all key bytes from redis.
+A simple Python script for count all key bytes from redis.
 
 It can't give you accurate memory conditions, but you can get some important information from it.
 
